@@ -1,0 +1,36 @@
+- title: Managed EDI
+  pages:
+    - path: /
+- title: Freight
+  pages:
+    - path: /freight
+- title: GLOBAL
+  pages:
+    - title: Global Container Index
+      path: /freight
+- title: PACIFIC
+  pages:
+    - title: China/East Asia to North America West Coast
+      path: /freight
+    - title: North America West Coast to China/East Asia
+      path: /freight
+    - title: China/East Asia to North America East Coast
+      path: /freight
+    - title: North America East Coast  to China/East Asia
+      path: /freight
+- title: SUEZ
+  pages:
+    - title: China/East Asia to North America East Coast
+      path: /freight
+    - title: North America East Coast  to China/East Asia
+      path: /freight
+
+- title: ATLANTIC
+  pages:
+    - title: North America West Coast to China/East Asia
+      path: /freight
+    - title: China/East Asia to North America East Coast
+      path: /freight
+    - title: North America East Coast  to China/East Asia
+      path: /freight
+

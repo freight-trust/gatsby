@@ -1,0 +1,40 @@
+src/pages/boilerplate.mdx
+
+src/gatsby-theme-carbon/components/Tabs/Tabs.js
+# exclude eslint configuration file if its in *.js
+!.eslintrc.js
+!.eslintrc.json
+
+# specific 
+bin/
+.circleci/
+lambdas/
+static/
+cannonical/
+config/
+
+# eslintignore 
+build/*.js
+config/*.js
+
+artifacts/
+build/
+cache/
+coverage/
+dist/
+lib/
+node_modules/
+public/
+.cache
+
+/build/**
+/coverage/**
+/docs/**
+/jsdoc/**
+/templates/**
+/tests/bench/**
+/tests/fixtures/**
+/tests/performance/**
+/tmp/**
+/tools/internal-rules/node_modules/**
+test.js
