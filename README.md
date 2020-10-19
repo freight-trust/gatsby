@@ -1,12 +1,17 @@
-# Freight Trust Corporate 
+<h1 align="center">
+  Gatsby Theme Carbon
+</h1>
 
-### Overview
+Freight Trust Gatsby.js Base
+## Resources
 
-- React
-- Gatsby
-- Fathom
+- [Contribution guidelines](.github/CONTRIBUTING.md)
+- [Issues](#)
+- [Style Guide](#)
+- [Branding](https://github.com/freight-trust/branding)
+
+## License 
+
+Apache-.20
 
 
-## License
-
-Apache 2.0
